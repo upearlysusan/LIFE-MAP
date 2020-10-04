@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385788164140",
+    "firebase_url": "https://life-map-f27e0.firebaseio.com",
+    "project_id": "life-map-f27e0",
+    "storage_bucket": "life-map-f27e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385788164140:android:2612323652664d9849f989",
+        "android_client_info": {
+          "package_name": "com.example.life_mp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385788164140-pvqcmk5nsecssvjckledc4a9upfe0k0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclBESTCTlkamVr-rhlaSNURNMS1f8g3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385788164140-pvqcmk5nsecssvjckledc4a9upfe0k0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
